@@ -1,6 +1,6 @@
-![Firefox Browser](./docs/readme/readme-banner.svg)
+## Browser
 
-[Firefox](https://firefox.com/) is a fast, reliable and private web browser from the non-profit [Mozilla organization](https://mozilla.org/).
+Browser is an alternative browser forked from [Firefox](https://firefox.com/) (a reliable and private web browser from the non-profit [Mozilla organization](https://mozilla.org/)).
 
 ### Contributing
 
